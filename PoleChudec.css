@@ -1,0 +1,30 @@
+.vopros-otvet{
+    font-weight: bolder;
+    margin-left: 400px;
+    margin-top: 5%;
+    width: 250px;
+}
+body{
+    background-color: gray;
+}
+#secret{
+    background-color: #3498db;
+    font-weight: bolder;
+}
+.proverka{
+    margin-top: -300px;
+    margin-left: 50px;
+    width: 200px;
+    height: 50px;
+
+}
+#letter{
+    width: 40%;
+    font-weight: bolder;
+}
+.ykub{
+    margin-top: 30px;
+}
+#hint{
+    width: 50px;
+}
